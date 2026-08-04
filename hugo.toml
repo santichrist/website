@@ -10,7 +10,7 @@ theme = 'diary'
 
 [params]
   enableReadingTime = true
-  favicon = "static/images/favicon-cat.png"
+  favicon = "/images/favicon-cat.png"
 
 [[menu.main]]
 url = "/categories"
