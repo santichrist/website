@@ -1,8 +1,7 @@
 ---
 title: "About Me"
 description: "get to know me"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-images: ["/images/Pope-Edouard-de-Beaumont-1844.jpg"]
+featured_image: "/images/author.jfif"
 categories: "About"
 ---
 
