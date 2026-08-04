@@ -9,7 +9,8 @@ theme = 'diary'
   name = "Santi"
 
 [params]
-  enableReadingTime=true
+  enableReadingTime = true
+  favicon = "static/images/favicon-cat.png"
 
 [[menu.main]]
 url = "/categories"
