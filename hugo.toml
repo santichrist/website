@@ -1,4 +1,4 @@
-baseURL = 'https://santichrist.github.io/website/'
+baseURL = 'https://santichrist.com/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'diary'
