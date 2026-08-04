@@ -1,6 +1,6 @@
 baseURL = 'https://santichrist.com/'
 locale = 'en-us'
-title = 'santi's blog'
+title = "santi's blog"
 theme = 'diary'
 
 [author]
