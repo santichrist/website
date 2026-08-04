@@ -3,7 +3,6 @@ title: "About Me"
 description: "get to know me"
 date: 2026-08-04
 featured_image: "/images/about/author.jpg"
-categories: "About"
 ---
 
 # santi christ
