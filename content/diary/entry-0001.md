@@ -1,5 +1,5 @@
 ---
-title: "8/4/26"
+title: "Diary Entry #1"
 description: "test entry"
 date: 2026-08-04
 featured_image: "/images/diary/boymoder.jpg"
