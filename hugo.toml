@@ -6,3 +6,6 @@ theme = 'diary'
 [author]
   email = "me@santichrist.com"
   name = "Santi"
+
+[params]
+  enableReadingTime=true
