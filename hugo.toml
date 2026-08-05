@@ -33,6 +33,6 @@ name = "my links"
 weight = 4
 
 [[menu.main]]
-url = "/lists"
+url = "/takes"
 name = "my takes"
 weight = 5
