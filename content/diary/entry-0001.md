@@ -4,6 +4,7 @@ description: "test entry"
 date: 2026-08-06T12:00:00
 featured_image: "/images/diary/boymoder.jpg"
 ---
+
 # i could not resist putting the boymoder picture, sorry!!
 welcome to my diary!! i made this space on my blog mostly because i wanted to dedicate some space to just talking about the everyday stuff that happens to me. it's a good chance to reflect on the stuff that's been happening over the last couple of days, as well as make sure that i keep track of what's going on; if you ask me what i did yesterday, i genuinely couldn't tell you. i'm also going to be writing this off rip, so i don't want to spend too much time polishing my writing. i'll experiment with how i format each entry, so it might be a little bit before i come into a consistent format. for today, i thought to make headers to kind of discuss different topics that i wanted to get to.
 
