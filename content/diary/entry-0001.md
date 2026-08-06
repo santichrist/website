@@ -1,8 +1,22 @@
 ---
 title: "Diary Entry #1"
 description: "test entry"
-date: 2026-08-05T12:00:00-0500
+date: 2026-08-06T12:00:00-0500
 featured_image: "/images/diary/boymoder.jpg"
 ---
 # i could not resist putting the boymoder picture, sorry!!
-this is a sample diary entry. it's not meant to be much more than that, but i will probably come back tomorrow to update it :D
+welcome to my diary!! i made this space on my blog mostly because i wanted to dedicate some space to just talking about the everyday stuff that happens to me. it's a good chance to reflect on the stuff that's been happening over the last couple of days, as well as make sure that i keep track of what's going on; if you ask me what i did yesterday, i genuinely couldn't tell you. i'm also going to be writing this off rip, so i don't want to spend too much time polishing my writing. i'll experiment with how i format each entry, so it might be a little bit before i come into a consistent format. for today, i thought to make headers to kind of discuss different topics that i wanted to get to.
+
+# why did i start this blog?
+i take pride in somewhat enjoying journaling, and when asked by someone what my hobbies are, i always like to throw this one to make myself sound both different and also normal at the same time. not that i'm not normal, but i guess appreciating good mental health is something that most of us take for granted, and i want to make sure that i have an outlet to take a step back and analyze my life. and that's what journaling is meant to be for me, but the actual way in which i journal can be a little difficult to be consistent at.
+
+i took a course on habit making in january of this year, and one thing that i took away from it is that it's better to be consistent at a habit than to be perfect at it. i made it my goal to make journaling one of the central habits of my life, and at first i tried doing it by physically writing on a cute a6 notebook that i got from muji. i looked through pinterest boards and stuff to find design inspos, but in the end i kinda just did my own thing. that being said, it became pretty hard to stay consistent with it once the school year started, and as much as i love performatively sitting down and writing on my journal in public so that people can stare at me in awe for my dedication to the betterment of santi christ, i also want to make sure that i'm actually doing the journaling when i need to. it's like flossing your teeth: it's better to half-ass it 7 days a week than to do it really well once a week. well, at least in my opinion, make sure you consult a clinician.
+
+so i think i've answered the question: i want to be consistent with journaling. if it means that i start a really cool blog instead of pulling out a cute notebook, then so be it. i think the blog is cooler in all honesty, but the benefits of people being in awe are sort of delayed until they manage to type my full-name-dot-com onto the internet. slow burn.
+
+# ok cool but how has stuff been this summer?
+this summer has been going pretty decently, certainly better than my last one. the thing that i don't really appreciate about my college's schedule is the fact that it always finishes in late may, which means that it often coincides with the start date of my internship. i'm not even kidding when i say that i took my last final exam on a sunday and my internship started on a tuesday, which gave me just enough time to pack up my entire room for the summer and then scramble to beg a friend to take me to my internship on an adjacent state where i stayed for 2 months. 
+
+the internship itself was really fun, and i really like the fact that this summer i actually got the chance to make more friends. on my last summer internship, i was kind of cool with everyone at first, but lowkey drifted away because i was busy studying for a standardized test for the whole summer, and it was really sad to see that in the end i didn't really make any friends from that internship. not that literally anyone in that cohort was close at all, but that being said it's definitely something that felt well within my control, and i'm glad that a year later i could prove to myself that i could have a lot of fun with my work and that i could make good friends. it was a really cool friend group and we enjoyed hanging out after work, and they took me a lot of places and treated me real nice. i miss them.
+
+ever since i came back from my internship, i've literally just been chudding really hard at home. i think it's well within my paygrade to give myself a well-deserved rest. i'm really not kidding when i say that i've had literally no time to rest since the beginning of 2025, so now i'm making up for it. i've been hanging out with my mom a lot, and have made an active effort to talk to my family more since i don't really get to see them that much anymore now that i think about it :-(
