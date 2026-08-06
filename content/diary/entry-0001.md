@@ -1,7 +1,7 @@
 ---
 title: "Diary Entry #1"
 description: "test entry"
-date: 2026-08-06T12:00:00-0500
+date: 2026-08-06T12:00:00
 featured_image: "/images/diary/boymoder.jpg"
 ---
 # i could not resist putting the boymoder picture, sorry!!
