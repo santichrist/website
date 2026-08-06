@@ -28,11 +28,11 @@ name = "my music"
 weight = 3
 
 [[menu.main]]
-url = "/links"
-name = "my links"
+url = "/takes"
+name = "my takes"
 weight = 4
 
 [[menu.main]]
-url = "/takes"
-name = "my takes"
+url = "/links"
+name = "my links"
 weight = 5
