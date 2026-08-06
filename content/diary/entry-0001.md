@@ -1,6 +1,6 @@
 ---
 title: "Diary Entry #1"
-description: "test entry"
+description: "intro, why blog, how summer, what next :>"
 date: 2026-08-06
 featured_image: "/images/diary/boymoder.jpg"
 ---
