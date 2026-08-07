@@ -11,7 +11,7 @@ the reason i started drinking them in the first place is because i've never been
 
 you ever met one of those annoying wine sommeliers who swear that they aren't wasting money for fancy packaging? unlike those fools, i am VERY confident that i can do a blind energy drink taste test and manage to identify a lot of these flavors. i'm not too sure what i got from roasting wine tasters, but it definitely made me feel better about myself. can you tell that i'm in need of a caffeine-based energy drink stimulant from my incohesive rambling? without further-ado, my energy drink rankings:
 
-![an energy drink tier list consisting of the drinks that i've personally tried, with entries "absolute heaven", "wonderful & amazing", "pretty damn good", "it's fine", "gets the job done", and "why are you drinking this"](/images/takes/energydrink.jpeg)
+![an energy drink tier list consisting of the drinks that i've personally tried, with entries "absolute heaven", "wonderful & amazing", "pretty damn good", "it's fine", "gets the job done", and "why are you drinking this"](/images/takes/energydrink.jpg)
 
 # not extensive list of criteria used to rank
 * taste (most important)
