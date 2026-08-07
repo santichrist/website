@@ -1106,3 +1106,8 @@ mjx-container {
     margin: 10px;
   }
 }
+
+img[src$='#center'] {
+    display: block;
+    margin: 0.7rem auto; 
+}
