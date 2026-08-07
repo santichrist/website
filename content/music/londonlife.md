@@ -1,7 +1,7 @@
 ---
 title: "fakemink - London Life"
 description: "an obsessive love twisted by capitalism?"
-date: 2026-08-04
+date: 2026-08-07
 featured_image: "/images/music/londonlife.png"
 ---
 > Money seem to cry when I save it and always seem to leave my account when I make it
