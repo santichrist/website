@@ -1,7 +1,7 @@
 ---
 title: "Old Web"
 description: "stuff that reminds me of the 2000s internet"
-date: 2026-08-04
+date: 2026-08-05
 featured_image: "/images/links/old-web.jpg"
 ---
 
