@@ -2,7 +2,7 @@
 title: "Energy Drinks I've Had"
 description: "source: i'm a culinary expert"
 date: 2026-08-07
-featured_image: "/images/takes/ghostenergy.jpg"
+featured_image: "/images/takes/ghostenergy.webp"
 ---
 # foreword
 as i'm a college student, i've naturally fallen victim to the vast world of commercial energy drinks. while my mom always loves to give me flack for drinking energy drinks that are probably admittedly not great for my health, there are definitely worse vices out there that makes mine look pretty tame. i tend to quit drinking energy drinks over the summer, meaning that i haven't had any of these in a while. that being said, i am an energy drink demon during the school year, and i can confidently say that my three years so far in college would not be the same without these beautiful sources of caffeine.
