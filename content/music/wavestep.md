@@ -1,7 +1,7 @@
 ---
 title: "Blank Banshee - Wavestep"
 description: "emotional intensity that comes and goes, the bittersweet feeling it leaves behind"
-date: 2026-08-04
+date: 2026-08-05
 featured_image: "/images/music/bb0.jpg"
 ---
 
