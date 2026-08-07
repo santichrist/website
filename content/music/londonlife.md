@@ -5,8 +5,11 @@ date: 2026-08-04
 featured_image: "/images/music/londonlife.png"
 ---
 > Money seem to cry when I save it and always seem to leave my account when I make it
+> 
 > Never seen eyes like the ones in your face, I couldn't hide what I tried fakin'
+> 
 > She want the London life, but she won't ever pay the London price
+> 
 > I don't even stay in London, right, but please just give it to me one more time
 
 although i generally try to stay away from external analyses of the music i listen to, save for when i've already established some kind of point that i'm confident standing behind and want to actively challenge it, i simply couldn't let go of [this one analysis of *london life* that i saw on youtube](https://www.youtube.com/watch?v=3ctI6Bxwf3s{:target="_blank"}). while i don't necessarily agree with every point made, i do think that alexandra did a great job at kind of opening my eyes to the extended metaphor that the song embodies, the love for the person the speaker obsesses over, and how it's sort of meant to represent an intense desire. i don't think that fakemink is too known for making revolutionary points in his music, and sometimes i'd even argue that he's lowkey fake deep on his music in an effort to uphold the irresistible model/underground rapper/philosopher shroud that makes him cool, a modern rockstar that everyone wants to be. that being said, i do want to expand on the point of desire made by alexandra's analysis. i want to clarify that i'm mostly just writing my raw thoughts, and this really isn't meant to be any kind of formal analysis or critique to her video, but rather i just want to acknowledge that my thoughts on the song stem from this theme of desire that got brought up.
