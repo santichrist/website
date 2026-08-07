@@ -30,4 +30,4 @@ something that i do that's kind of weird is that i like to associate songs and a
 in that sense, _fleeting feeling_ is like taking a break to stare around in awe at the city, kind of like taking a midnight walk to a convenience store and just admiring all the lights, people outside partying, the bustling traffic of a city that genuinely never takes a break. _london life_, then, turns this state of mental awe into words. source? i've walked around london at night.
 
 # you're not even from london though
-yeah ok fair point, but that's how i interpreted the context of the song if nothing else. 
+yeah ok fair point, but that's how i interpreted the context of the song if nothing else. to be continued.
