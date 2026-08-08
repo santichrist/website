@@ -1,5 +1,5 @@
 ---
-title: "League of Legends Attractiveness"
+title: "Ranking League of Legends Attractiveness"
 description: "this was definitely not made at 2 am on call with a friend"
 date: 2026-08-05
 featured_image: "/images/takes/lol.jpeg"
