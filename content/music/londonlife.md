@@ -53,3 +53,5 @@ or rather, what if it's not about a woman who longs about living a life that she
 > I don't even stay in London, right, but please just give it to me one more time
 
 need i say more? the speaker can't afford to be in london, and the "right" almost feels like he is responding to someone calling him out on this fact. at least he realizes that his love is just a desire to be with the woman one more time. give what exactly to him one more time? your guess is as good as mine: her attention, sex, the fantasy of city life? these lines almost read like they came from the perspective of an addict, someone who won't let anything stand in the way of a high even if they have no money left, someone who just wants to have it one more time and let the worries come afterward.
+
+anyway, this little bit on my thoughts on the song has gone far beyond a tiny little bit, so i'll probably leave it here for now until i revisit it in the future. while most of it was random rambling, i hope that it's at least some kind of food for thought :-) it was a lot of fun writing this...but i also know my limits!
