@@ -33,7 +33,7 @@ so it's this kind of ritualistic source of competition where real feelings get h
 ## b tier
 * **monopoly:** it's actually a very good game save for the fact that you're never going to have enough time to play it all the way through AND people don't really know how to play the barter system well, so it ends up being one of those games that you're kind of hyped to play initially but becomes stale very quickly.
 * **tic tac toe:** love it for its portability; this is best played if both players place down their X's and O's extremely fast, otherwise it just becomes another game where the optimal strategy is to draw, draw, draw, draw, draw.
-* **jenga:** a certain someone argued that this doesn't constitute a board game, but to that i say that this is a game that i exclusively play when i'm bored.
+* **jenga:** a certain someone argued that this doesn't constitute a board game, but to that i say that this is a game that i exclusively play when i'm bored (please laugh don't hurt my feelings).
 * **cards against humanity:** i feel like it's too stuck on overly edgy millennial humor that can't keep up with the ever-changing trends of today's youth, so besides the fact that you'll get an actually funny sentence every few rounds or so, it can be quite obnoxious to go through very lame answers that induce nothing but a straight face emoji.
 * **dominoes:** i grew up with these because i played it with my grandma, but i'm mostly putting it in B tier because i'm hispanic and it's like cultural code that i don't disrespect this game.
 * **guess who?:** another game that i played a lot with my grandma, and hence i associate it with good memories despite the fact that i don't really play it that much anymore.
