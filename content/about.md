@@ -16,6 +16,7 @@ since i was little, i've wanted to have a personal website where i put out a bun
 * i was born in south florida, lived in colombia for 5 years, currently live in central florida, and go to college in western massachusetts
 * i like to journal, play pickleball, make iced drinks, listen to music, volunteer for local things, eat with people, and play video games
 
+<div class="newsletter-signup">
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
@@ -800,3 +801,4 @@ since i was little, i've wanted to have a personal website where i put out a bun
       });
     });
     </script></div>
+    </div>
