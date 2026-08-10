@@ -15,3 +15,5 @@ since i was little, i've wanted to have a personal website where i put out a bun
 * i'm 21 years old
 * i was born in south florida, lived in colombia for 5 years, currently live in central florida, and go to college in western massachusetts
 * i like to journal, play pickleball, make iced drinks, listen to music, volunteer for local things, eat with people, and play video games
+
+{{< newsletter >}}
