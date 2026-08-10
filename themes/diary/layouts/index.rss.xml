@@ -42,10 +42,23 @@
 
       <guid>{{ .Permalink }}</guid>
 
-      {{ $images := .Content | findRE `<img[^>]+src=["']([^"']+)["']` 1 }}
+     {{ $images := findRE `<img[^>]+src=["']([^"']+)["']` .Content 1 }}
 {{ with index $images 0 }}
   {{ $src := replaceRE `^.*src=["']([^"']+)["'].*$` "$1" . }}
-  <enclosure url="{{ $src | absURL }}" type="image/jpeg" />
+  {{ $ext := lower (path.Ext $src) }}
+
+  {{ $type := "image/jpeg" }}
+  {{ if eq $ext ".png" }}
+    {{ $type = "image/png" }}
+  {{ else if eq $ext ".gif" }}
+    {{ $type = "image/gif" }}
+  {{ else if eq $ext ".webp" }}
+    {{ $type = "image/webp" }}
+  {{ else if eq $ext ".svg" }}
+    {{ $type = "image/svg+xml" }}
+  {{ end }}
+
+  <enclosure url="{{ $src | absURL }}" type="{{ $type }}" />
 {{ end }}
 
       <description>{{ .Summary | html }}</description>
