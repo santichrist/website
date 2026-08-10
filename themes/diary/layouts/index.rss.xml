@@ -22,7 +22,11 @@
         {{ with .Site.Params.author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
         <guid>{{ .Permalink }}</guid>
 
-        <featured-image>{{ .Params.featured_image }}</featured-image>
+        <debug>
+  TITLE={{ .Title }}
+  URL={{ .Permalink }}
+  PARAMS={{ printf "%#v" .Params }}
+</debug>
     
         <description>{{ .Site.Title }} {{ .Permalink }} - {{- .Content | html -}} - {{ .Permalink }} - {{.Site.Copyright}}</description>
         </item>
