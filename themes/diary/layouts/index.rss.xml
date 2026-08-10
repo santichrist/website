@@ -42,9 +42,11 @@
 
       <guid>{{ .Permalink }}</guid>
 
-      {{ with .Params.featured_image }}
-      <enclosure url="{{ . | absURL }}" type="image/jpeg" />
-      {{ end }}
+      {{ $images := .Content | findRE `<img[^>]+src=["']([^"']+)["']` 1 }}
+{{ with index $images 0 }}
+  {{ $src := replaceRE `^.*src=["']([^"']+)["'].*$` "$1" . }}
+  <enclosure url="{{ $src | absURL }}" type="image/jpeg" />
+{{ end }}
 
       <description>{{ .Summary | html }}</description>
     </item>
