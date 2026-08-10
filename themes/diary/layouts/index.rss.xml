@@ -22,12 +22,7 @@
         {{ with .Site.Params.author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
         <guid>{{ .Permalink }}</guid>
 
-        {{ with .Params.featured_image }}
-  <enclosure
-    url="{{ printf "%s%s" (strings.TrimRight $.Site.BaseURL "/") . }}"
-    type="image/jpeg"
-  />
-{{ end }}
+        <featured>{{ .Params.featured_image }}</featured>
     
         <description>{{ .Site.Title }} {{ .Permalink }} - {{- .Content | html -}} - {{ .Permalink }} - {{.Site.Copyright}}</description>
         </item>
