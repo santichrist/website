@@ -12,9 +12,6 @@ theme = 'diary'
   enableReadingTime = true
   favicon = "/images/favicon-cat.png"
 
-[markup.goldmark.renderer]
-  unsafe = true
-
 [[menu.main]]
 url = "/about"
 name = "who is santi?"
