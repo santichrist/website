@@ -36,3 +36,8 @@ weight = 4
 url = "/links"
 name = "my links"
 weight = 5
+
+[[menu.main]]
+url = "/newsletter"
+name = "email updates"
+weight = 99
