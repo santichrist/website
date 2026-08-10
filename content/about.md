@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: "get to know me"
-date: 2026-08-04
+date: 2026-08-09
 featured_image: "/images/about/author.jpg"
 ---
 
