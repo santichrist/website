@@ -26,4 +26,23 @@ i'm only going to be talking about showering in the context of doing my hair. as
 * then, i'll remove the plop and diffuse my hair with a hair dryer for about 10 minutes, also tilting my head to make sure the strands are nice and long so that i can really get things dry. i then end with some hair oil to style and get a little bit of volume out, and voila, my hair is good to go.
 * if i want to refresh my hair, i'll use a little bit of water, a little bit of mousse, and a little bit of oil, and i'll also typically volumize my hair a bit by moving it around.
 
-## 
+## skincare
+i remove body hair by shaving/razors, which means that i need to keep my skin healthy since shaving will typically irritate skin. there's also the skincare that i do to keep my face looking nice when i apply makeup, but i don't mean to get too ahead of myself. can you tell these in-gruesome-detail routines are [making me sound a little like patrick bateman?](https://www.youtube.com/watch?v=RjKNbfA64EE)
+* i shave during a hot shower because in my experience it minimizes irritation and in-grown hairs by a lot since the steam opens up skin pores and all that science i'm not really in touch with. i don't use any shaving cream, and i also do not exfoliate on the same day that i shave (i don't know why online forums always suggest exfoliating the same day, but in my experience that messes me up).
+* if i shaved, skip this step, but otherwise i will use one of two light chemical exfoliants on my legs: a 7% glycolic acid solution ("the ordinary", if you're in the loop with the skincare reels) and 20% urea cream. i tend to alternate between these each day (don't quote me on this).
+* then i'll apply body butter (shea butter, MY FAVORITE THING EVER) to my legs and arms, and a moisturizer (ceramides and hyaluronic acid) to my freshly shaved face.
+
+## make-up
+i genuinely only know the "no-makeup" look, and i do this literally every day. i think that after some awkward moments and a little bit of advice from my mom, i've gotten a much better grip on this. poor girl, poor girl.
+* if my facial moisturizer hasn't already dried, i'll remove any excess that will smear the make-up.
+* i start by applying a dot of orange color corrector on my upper lip, and distribute.
+* i apply a little bit of primer in that area as well.
+* i apply liquid blush by my cheekbones and distribute with my finger (oh well).
+* i curl my eyelashes in like 15 seconds because i don't have time for that.
+* i apply the cheapest mascara ever really well into my upper eyelashes. oh yeah, forgot to mention, i only use drug store stuff.
+* i appreciate the beauty of my naturally long eyelashes, and how applying mascara to them only serves to make the rich richer, the unfairness of life coming to light with a moggingly cheap $5 mascara.
+* i apply a tiny bit of concealer to my upper lip, two "dots," and distribute until it blends in nicely into my skin (thankfully i was able to eyeball the right shade for my skin).
+* if i'm feeling fancy, i'll even put on a little lip tint...
+
+## smelling good
+i genuinely worry that my amazing smell can be too overbearing sometimes, and it's been the source of a little glaring insecurity that is best shown whenever someone compliments my good smell and i go "thank you omg wait is it too strong?" then, i remember that a lot of my stuff is oil-based and that i'm not overbearing with the volatile organic compounds i apply to my skin.
