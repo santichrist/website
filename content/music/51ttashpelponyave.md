@@ -1,7 +1,7 @@
 ---
 title: "fakemink - 51 Ttashpel Pony Ave."
 description: "a little vignette of my spring semester"
-date: 2026-08-07
+date: 2026-08-13
 featured_image: "/images/music/51.png"
 ---
 > I feel like running away, but I'm just stuck in this place
