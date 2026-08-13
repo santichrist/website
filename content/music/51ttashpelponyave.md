@@ -21,5 +21,7 @@ featured_image: "/images/music/51.png"
 > All those nights, I knew who I was
 >
 > And my premonition right, damn right
+>
+> Now look at me-
 
 can you tell that i like fakemink yet? my introduction to him was by looking at an instagram note of a certain someone that i don't talk to anymore, but if nothing else i can thank him and instagram for introducing me to an artist that i enjoy. overly enigmatic sometimes, sure, but like i said in [my little analysis of his song london life](https://santichrist.com/music/londonlife/), i understand the need for the modern artist to be a little cryptic to aura farm listens on spotify.
