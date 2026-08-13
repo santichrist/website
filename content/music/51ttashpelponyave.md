@@ -5,6 +5,7 @@ date: 2026-08-13
 featured_image: "/images/music/51.png"
 ---
 > fakemink:
+> 
 > I feel like running away, but I'm just stuck in this place
 >
 > F- a familiar face, need a familiar place
@@ -14,6 +15,7 @@ featured_image: "/images/music/51.png"
 > Need a familiar kiss with some familiar face
 
 > julia wolf (_now_)
+> 
 > I was just an apparition most of my youth
 >
 > Cannonball into the coffin and then wake up for school
