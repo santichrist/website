@@ -2,7 +2,7 @@
 title: "Diary Entry #3"
 description: "why are my instagram stories so weird?"
 date: 2026-08-18
-featured_image: "/images/diary/spotify-ss.png"
+featured_image: "/images/diary/igstory.png"
 ---
 
 # i have struggled with my self-image
