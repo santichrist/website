@@ -2,7 +2,7 @@
 title: "Crystal Castles - Crimewave"
 description: "documenting how hrt has changed my attraction"
 date: 2026-09-21
-featured_image: "/images/music/51.png"
+featured_image: "/images/music/crystalcastles.png"
 ---
 > Eyes lit on sharp threats from dark lips
 >
