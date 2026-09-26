@@ -2,7 +2,7 @@
 title: "Diary Entry #6"
 description: "ode to the messiness that made me who i am today"
 date: 2026-09-26
-featured_image: "/images/diary/cards.jpg"
+featured_image: "/images/diary/hands.jpg"
 ---
 # this is purely a creative writing exercise do not take this seriously ok thank you
 i was having a conversation with a friend over a brief brunch today, and by brunch i mean that he was eating dining hall slop and i was eating a mcchicken that i couldn't bring myself to chomp down the night before. it was a very chill setting, and i happened to come up to him and sit down for like an hour purely because i couldn't find where i left the wrapped mcchicken the night before. as it turns out, it was sitting on top of our dorm's dining table, so i took it as an invitation to just sit down and enjoy the food with him. sometimes i'm glad that mcdonald's fills their food with a lot of preservatives, because this sandwich was completely intact for me to enjoy despite the fact that i did not refrigerate it whatsoever.
