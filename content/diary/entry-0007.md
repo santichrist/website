@@ -15,3 +15,5 @@ so i know that you'd love to keep hearing me ramble, and although i will once ag
 
 # the dates
 i'm gonna write about these in highlight reel fashion because i know that our brains have been rewired to crave instant validation, and although i recognize that i'm giving up the beauty of the mundane
+
+to be updated
