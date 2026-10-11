@@ -2,7 +2,7 @@
 title: "Diary Entry #5"
 description: "i've had a happy early fall '26"
 date: 2026-09-22
-featured_image: "/images/diary/cards.jpg"
+featured_image: "/images/diary/happy.png"
 ---
 # this better be a happy blogpost
 i know that i often use/abuse/misuse/etc this blog for the sake of writing sappy stuff that comes up when i go into those like deep bouts of reflection and stuff, but i think that right now i'm actually feeling quite happy with how my early fall has been going. it's almost surprising to me in a way, because one of the things that i remember hearing from an upperclassman when i was a first year student was that it doesn't get any easier but you get stronger. i obviously took that statement at surface level to be referring to academics, but i think that it's a generally true statement about the kind of emotional maturity that you develop as life goes on. in many ways, it feels like i've finally comfortably established my social and academic life without disrupting each other, and i think i have my personal growth to credit for that. then again, the same logic could probably also apply to the reverse situation; my personal growth led me to establish a more comfortable social and academic life.
