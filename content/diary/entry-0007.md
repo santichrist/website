@@ -24,9 +24,11 @@ i'm gonna write about these in highlight reel fashion because i know that our br
 * i could see him opening up more and more, which was great, i can finally see a bit more of him
 * we went to a natural park that was really, really pretty, but didn't stay there long because i got cold. he opened the door for me and held me in the bench, warmly
 * we got a milkshake from a stewart's and shared it (i drank most of it)
-* we got to his house. you know the rest. 
+* we got to his house. his home was a bit creepy. his room was nice, we saw a movie, etc.
+* he drove me back home. good friend.
 
 # date 2: vermont girl
+* 
 
 # date 3: college person
 
