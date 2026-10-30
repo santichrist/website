@@ -1,6 +1,6 @@
 ---
 title: "Diary Entry #7"
-description: "my dating life these past 2 weeks, fridge cigarettes"
+description: "my dating life these past 2 weeks"
 date: 2026-10-11
 featured_image: "/images/diary/brianbell.jpg"
 ---
