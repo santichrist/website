@@ -14,6 +14,20 @@ forever is a strong word, but so is the notion of dating to last forever in this
 so i know that you'd love to keep hearing me ramble, and although i will once again clarify that i seriously debated whether to even write about this, two things convinced me to do it: (1) it's always good to reflect on my (fictional) experiences with other people because they teach me more about myself, and (2) because anyone worth a damn is going to find me blogging about them hilarious. i also won't write about anything excessively nsfw, so if that was your hope then [i'm sorry but you can feel free to consult other resources for your smut-rotted brain your perv](https://archiveofourown.org/).
 
 # the dates
-i'm gonna write about these in highlight reel fashion because i know that our brains have been rewired to crave instant validation, and although i recognize that i'm giving up the beauty of the mundane
+i'm gonna write about these in highlight reel fashion because i know that our brains have been rewired to crave instant validation, and although i recognize that i'm giving up the beauty of the mundane by doing so, i think it's worth it enough that i cut straight to the chase seeing that we live in the age of gratification.
 
-to be updated
+# date 1: albany guy
+* was standing awkwardly outside the restaurant where we were going to have our meal
+* i definitely carried the conversation but there were moments of legitimate joy in his eyes
+* he paid for the meal. ok, good enough mr gentleman, let's go to albany
+* we did a little road trip there and started playing music that we both liked. we sung along to some weezer and other such manifestations of dad rock
+* i could see him opening up more and more, which was great, i can finally see a bit more of him
+* we went to a natural park that was really, really pretty, but didn't stay there long because i got cold. he opened the door for me and held me in the bench, warmly
+* we got a milkshake from a stewart's and shared it (i drank most of it)
+* we got to his house. you know the rest. 
+
+# date 2: vermont girl
+
+# date 3: college person
+
+# date 4: vermont person
