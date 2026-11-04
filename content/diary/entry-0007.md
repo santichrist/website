@@ -1,7 +1,7 @@
 ---
 title: "Diary Entry #7"
 description: "my recent college dating life (part 1)"
-date: 2026-11-4
+date: 2026-11-04
 featured_image: "/images/diary/brianbell.jpg"
 ---
 # once again this is purely a creative writing exercise do not take this seriously ok thank you
