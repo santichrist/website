@@ -1,7 +1,7 @@
 ---
 title: "Diary Entry #7"
-description: "my dating life these past 2 weeks"
-date: 2026-10-11
+description: "my recent college dating life (part 1)"
+date: 2026-11-4
 featured_image: "/images/diary/brianbell.jpg"
 ---
 # once again this is purely a creative writing exercise do not take this seriously ok thank you
@@ -25,11 +25,32 @@ i'm gonna write about these in highlight reel fashion because i know that our br
 * we went to a natural park that was really, really pretty, but didn't stay there long because i got cold. he opened the door for me and held me in the bench, warmly
 * we got a milkshake from a stewart's and shared it (i drank most of it)
 * we got to his house. his home was a bit creepy. his room was nice, we saw a movie, etc.
-* he drove me back home. good friend.
+* he drove me back home. he looked very content with himself. good friend.
 
 # date 2: vermont girl
-* 
+* arrived to my room
+* we talked a little bit about our mutual interests
+* etc
+* i did her estrogen shot
+* we drive to mcdonalds which felt eternal
+* car smells good
+* i end up getting like a $5 meal deal and a mocha frappe
+* we sit back and talk about people from our hometowns and how much we dislike them. ok she's cool.
+* i give her my laser hair removal referral code because i need those $50 dawg.
+* we watch life is strange gameplay because we are both big fans. we had played cod zombies over discord the day before and so i took it that we were both big into nerdy shit like this.
+* she takes me back to my dorm. good day's work.
 
 # date 3: college person
+* this one is actual insanity. they had posted about me on a certain anonymous app saying that i had an insane glow-up.
+* i had talked to this person like two years ago and they lowkey asked me for my number and name, and once i gave those they NEVER RESPONDED.
+* that was so embarrassing.
+* but this time around, i'm actually hot, which means that i simply cannot be in the wrong this time around if i respond to their anonymous post. so my easy ass confidently responds to the post by messaging them.
+* it was extremely nerve-racking, but we both end up figuring out that it was indeed us from two years ago. we decide to get dinner.
+* they actually come. why are they lowkey disturbing me with their incessant smiling.
+* long story short we end up making out in my room after i show them my mario kart skills and i spit mouthwash into their mouth.
+* and then we figured out that it's probably not a great idea to do much beyond that, so we kind of just end up talking about life until like 3 am. it was so enjoyable.
+* so we developed some kind of emotional bond and are presently in hand-holdy terms, but we actually aren't dating. don't you love a gut-wrenching friend crush thing?
+* we later ended up doing a two-person halloween costume effort where i highkey walked them around all night while looking hot.
+* this situation is currently under development. i hope it ends up well. don't tell them but i really like them. like lmao they already know that and they also like me a lot, but only time will tell how this ends up.
 
-# date 4: vermont person
+i lowkey do not feel like writing more about this for now, so i'm simply afraid that this will have to be continued on to another part.
