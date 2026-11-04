@@ -53,7 +53,9 @@ i have no words bro this is just hilarious if you know the context. phil's broth
 
 be the change you want to see!!!
 
-## [quote 6]
+## [quote 6](https://www.youtube.com/watch?v=trWs10FAX9w)
+> TONY: it don't give him the right to mouth off.
+>
 > DR. MELFI: sounds to me like Anthony Jr. might have stumbled onto existentialism.
 > 
 > TONY: fucking internet.
