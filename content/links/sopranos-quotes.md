@@ -25,11 +25,11 @@ not to be an existentialist bastard, but this is my favorite quote in the whole 
 don't ask questions you don't want to know the answer to. as a testament to my anxious personality, i often ask these questions way too much.
 
 ## [quote 3](https://www.youtube.com/watch?v=HgBqTgwB01s)
-> TONY: i don't give a fuck
+> TONY: i don't give a fuck.
 > 
 > *BOBBY visibly becomes sad*
 > 
-> TONY: alright i do give a fuck
+> TONY: alright i do give a fuck.
 
 the social need to put up appearances makes us say things we don't mean. i don't care about you; i do care about you.
 
@@ -47,3 +47,15 @@ the social need to put up appearances makes us say things we don't mean. i don't
 > CARMINE JR.: God rest his soul.
 
 i have no words bro this is just hilarious if you know the context. phil's brother was murdered by one of carmine's guys and this guy unwillingly produces from his mouth some of the most disrespectful sentences ever. you ever poorly word something and it just keeps getting worse? we've all been there...
+
+## [quote 5](https://www.youtube.com/watch?v=CMp-N2FKT9k)
+> CHRIS: isaac newton invented gravity 'cause some asshole hit him with an apple.
+
+be the change you want to see!!!
+
+## [quote 6]
+> DR. MELFI: sounds to me like Anthony Jr. might have stumbled onto existentialism.
+> 
+> TONY: fucking internet.
+
+the best part about growing up in a latino household is the anti-intellectualism and disbelief in mental health, especially if you're trying to end up like me (aren't i the coolest?) but what's more than that is that all of my problems are ultimately blamed on me for wanting to learn about these darker views on life. ironically enough, bumping into existentialism/absurdism during my teenage years probably taught me the most out of all the stupid things i did back then.
