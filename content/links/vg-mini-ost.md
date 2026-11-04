@@ -35,3 +35,6 @@ this is essentially a remix of the original game's theme but a lot more metal. i
 
 ## [gta: chinatown wars - alchemist (gangrene - crack)](https://www.youtube.com/watch?v=uhyLsFRHUl0)
 actually the instrumental to [fat joe - my conscience](https://www.youtube.com/watch?v=fpCkykvwAus). this is easily the best song in the in-game radio, and i always try to time some crazy police chase to this song queueing up in the in-vehicle music. and to be real, the actual song is ridiculously carried by the beat, but it's nonetheless good sometimes.
+
+## [battlefield 3: armored shield](https://www.youtube.com/watch?v=wQFTUCPBCD4)
+i love bf3's distorted electronic beats, it's really fitting with the game's atmosphere.
