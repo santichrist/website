@@ -2,7 +2,7 @@
 title: "Diary Entry #8"
 description: "people-watching"
 date: 2026-11-08
-featured_image: "/images/diary/boymoder.jpg"
+featured_image: "/images/diary/despair.jpg"
 ---
 i'm over it, don't read too much into this.
 
