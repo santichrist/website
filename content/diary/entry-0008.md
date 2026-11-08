@@ -24,4 +24,4 @@ i'm over it. i'm over it. i'm really not. i wish i couldn't feel, really. what i
 
 i'll miss you. the you that i wanted to devour, the you that i thought unattainable. and now that i have seen what you really are, i know that i could never eat your heart. you are my worst nightmare, and thinking of you just makes me want to cry. i tremble. 
 
-but don't read too much into this. you probably will never even read this. i know i'm scary, i know i'm crazy, but may we meet in another life where you are the one watching me and i'm the one confronted with a gut-wrenching choice. i wish i could say that i want to hurt you too, but i don't because the truth is that you never meant to hurt me. you are so beautiful. i wanted you all to myself.
+but don't read too much into this. you probably will never even read this. i know i'm scary, i know i'm crazy, but may we meet in another life where you are the one watching me and i'm the one confronted with a gut-wrenching choice. i wish i could say that i want to hurt you too, but i don't because the truth is that you never meant to hurt me. and that's what makes you beautiful, my angel. i wanted you all to myself.
