@@ -2,7 +2,7 @@
 title: "Diary Entry #8"
 description: "people-watching"
 date: 2026-11-08
-featured_image: "/images/diary/despair.jpg"
+featured_image: "/images/diary/my dear angel you bring me so much despair, and though i couldn't have you i really do know that you cared enough to do what was right.jpg"
 ---
 i'm over it, don't read too much into this.
 
