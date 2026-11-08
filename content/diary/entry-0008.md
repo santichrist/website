@@ -22,6 +22,6 @@ it hurts, it hurts so much. it hurts, it hurts, it hurts. i couldn't tell from t
 
 i'm over it. i'm over it. i'm really not. i wish i couldn't feel, really. what i wanted so much is something that i now have, and the heartache that lets me see life in your skin is killing me, because i know that you're a good person. you did what was right for us. this us could never be a goddamn thing, and you knew that i was getting my hopes up over nothing, but you know what? i really, really, really want to hate you but i just can't. i can't.
 
-i'll miss you. the you that i wanted to devour, the you that i thought unattainable. and now that i have seen what you really are, i know that i could never eat your heart. you are my worst nightmare, and thinking of you just makes me want to cry. i tremble. 
+i'll miss you. the you that i wanted to devour, the you that i thought unattainable. and now that i have seen what you really are, i know that i could never eat your heart. you are my worst nightmare, and thinking of you just makes me want to cry. do you think i want to sleep around to forget about you? i do it because i want to writhe in hurt.
 
 but don't read too much into this. you probably will never even read this. i know i'm scary, i know i'm crazy, but may we meet in another life where you are the one watching me and i'm the one confronted with a gut-wrenching choice. i wish i could say that i want to hurt you too, but i don't because the truth is that you never meant to hurt me. and that's what makes you beautiful, my angel. i wanted you all to myself.
