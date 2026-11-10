@@ -31,3 +31,4 @@ i am a well known glazer of mink, and i'm not gonna lie this song is not even un
 ## [$uicideboy$ - thorns](https://www.youtube.com/watch?v=uuy9oJmfFK8)
 believe it or not, i also glaze $b way too much, but i think that this song is genuinely such a gem. i wouldn't say it's underlistened per say since it has like 87 million plays, but it's certainly not one of their bigger songs since those cap out at over 400 mil plays usually. it's such a chiller of a song and very catchy, nothing much more to say but i love playing this song when i can feel the outside breeze on a summer evening.
 
+i think this is a good place to leave this at. remember, you MUST credit me for putting you on (please).
