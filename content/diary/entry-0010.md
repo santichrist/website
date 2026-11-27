@@ -2,7 +2,7 @@
 title: "Diary Entry #10"
 description: "so what did i make of the last like month or so?"
 date: 2026-11-26
-featured_image: "/images/diary/angel.jpg"
+featured_image: "/images/diary/angelic.jpg"
 ---
 i'm gonna make this piece (post...girl you're not an artist lmfao) a bit longer than usual because i feel like i have a lot of stuff to catch up on writing-wise. now that i'm in the middle of thanksgiving break, i've had the chance to recover a little and gain the energy to write and learn about my misadventures and what not. anyway, to answer the question...
 # i'm not totally sure
