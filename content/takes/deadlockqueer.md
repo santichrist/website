@@ -33,4 +33,53 @@ i genuinely think this guy has never felt the touch of another person and is mor
 ## the doorman
 this guy is straight up a mean gay. have you ever been ultied by him? he will literally spend the entire duration of his ult just flaming you in some of the most kink-coded ways i've seen. he is 100% gay for the drifter and i will not explain. he's on some brat-tamer, pet-playing bs with the drifter dawg.
 
+## the drifter
+he is a tens of thousands year old vampire vagabond thing who will get with anything that has a pulse. this guy is genuinely so unhinged it's not even funny. he's also extremely awkward around women, so i guess some things truly just never change in men.
+
+## dynamo
+he's a nerdy wife guy who 100% bottoms for his wife because he loves her more than anything in this planet, but otherwise i'd say that they are pretty vanilla and straight with it. what a gentleman.
+
+## grey talon
+this guy is too depressed to have sex.
+
+## haze
+she gives me hella lesbian vibes but she's literally a fed, so i'm gonna knock her down a little bit into the conservative territory for that.
+
+## holliday
+she's definitely a lesbian, and while i'm also inclined to knock her down a few points because she's a cop, she is definitely freaky with the ropes. like i think that she would be willing to try some pretty crazy stuff.
+
+## infernus
+bi with a preference for women. he's a bartender so he's definitely willing to see where things go for the night, and i think he's pretty middle of the road when it comes to what he's down to do. that being said, i think he has had a fair amount of experience, so he'd probably be down for whatever.
+
+## ivy
+bi with a preference for women as well. she talks down more on men than women in game so that's kind of where i'm basing this. i think she is definitely more on the lovey-dovey side of things, though she has been known to flirt with victor, so she's also not as innocent as she seems.
+
+## kelvin
+it froze and fell off- no i'm just kidding, he gives me very classic gay bear vibes but in a very warm and welcoming way, very vanilla in my opinion.
+
+## lady geist
+definitely a freak, and in the words of my friend "what that hand do?" she was married to a guy and was a socialite that was really only around guys and stuff in the lore, but i feel like her dominance has been known to experiment with the opposite sex because it knows no boundaries. she is the kind to crack and siphon the life out of you afterward. actual insanity.
+
+## the lash
+i feel like he is a closet bisexual who will strictly mess with feminine men and what not, and i also think that he would have some insanely hateful things to do with bebop. that being said, i don't think he's  nearly as freaky as he comes across, because he seemed extremely uncomfortable around vyper, who we know to be deadlock's freakiest freak.
+
+## mcginnis
+very clear-cut butch lesbian who will get straight to the point, no foreplay, no kissing, no nothing. sold her soul to fairfax industries and will purely go through people for the worldly pleasures of it. she is a husk incapable of loving.
+
+## mina
+definitely on the freakier side of things and she's such an icon from her fashion, and between you and me, she was definitely not being submissive for mf arin fairfax. she literally has an ability called lovebites and i don't think she's afraid leaving you with a million hickeys after being with her, if she doesn't outright drink your blood that is. i do think that she prefers masc people, and nothing in-game has shown us her being on the more queer side of things. she's lowkey repulsed by sex.
+
+## mirage
+> REM: Does the bottle lady have name?
+>
+> MIRAGE: Yes. She's Nashala.
+>
+> REM: Your pet is pretty.
+> 
+> MIRAGE: Oh, she's not my pet. Actually, if she were out of her vessel, she would probably say I'm her property.
+>
+> REM: Slavery's wrong...
+> 
+> MIRAGE: No... well, yes, it- it is, but, uh... that's not what she would mean if she said I was her property, her... hers is a dry wit!.. Okay, what- what is the point, you don't care.
+
 ## 
