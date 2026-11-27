@@ -5,7 +5,7 @@ date: 2026-11-26
 featured_image: "/images/takes/doormandl.jpg"
 ---
 
-![tier list](/images/takes/deadlockqueer-take.png)
+![tier list](/images/takes/deadlockqueer-take1.png)
 
 # the ratings
 
