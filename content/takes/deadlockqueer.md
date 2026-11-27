@@ -5,7 +5,7 @@ date: 2026-11-26
 featured_image: "/images/takes/doormandl.jpg"
 ---
 
-[deadlockqueer-take]()
+![tier list](/images/takes/deadlockqueer-take.png)
 
 # the ratings
 
@@ -82,4 +82,64 @@ definitely on the freakier side of things and she's such an icon from her fashio
 > 
 > MIRAGE: No... well, yes, it- it is, but, uh... that's not what she would mean if she said I was her property, her... hers is a dry wit!.. Okay, what- what is the point, you don't care.
 
-## 
+## mo & krill
+they are gay lovers for each other and have a height difference, so i think we all know what that implies.
+
+## nurse harrow
+massive freak, i think this needs absolutely no explanation. i was originally gonna call her a lesbian, but then i remembered her interaction with victor, and so now i'm convinced that she genuinely doesn't care  who it is as long as she can be the freak nurse in bed.
+
+## paige
+i think she's a closeted lesbian who simply does not have that much experience. very known to engage with smut, so she has a pretty crazy mind, but i don't think that she actually has any real life experience. if you are mean to her, she would probably just cry. but i think that she will warm up to those thoughts over time.
+
+## paradox
+gives me lesbian vibes, although extensive research (i spent 5 minutes) of her voicelines did not prove very productive other than a few voicelines that one may interpret as flirty with silver and celeste. i feel like she's kind of a freak for celeste, though, she's literally been to one of her shows and implied that she was there without her mask. so i think that she was lowkey feeling her.
+
+## pocket
+very reserved and borderline upset when they have to take down someone in-game, but they did date mina ha for a long time, so that's gotta mean something. i do personally think that they give grungy bi vibes though, but in a rich way.
+
+## the rat king
+gay furry.
+
+## seven
+i did not know this, but he kind of has a thing with kelvin. they give me naruto and sasuke vibes, like evil scientist enemies-to-lovers kind of thing. he's also seriously into world domination, which i think says something about him.
+
+## shiv
+this guy has some hilarious voicelines, and my headcanon is that he's had something for mo & krill.
+> SHIV: You boys gonna be able to keep up with me?
+>
+> MO & KRILL: Don't worry about us, Shiv. Just be sure you're ready once we grab them.
+>
+> SHIV: Didn't ya hear? Bein' an opportunistic killer is what I do best.
+
+## silver
+yet another bi freak in this game, who would've thought. she literally turns into a wolf, so there's that. she definitely has something going on with at least celeste, holliday, and abrams. so i think that nothing is past her bro, but i'm gonna lean her slightly toward being more lesbian than bi.
+
+## sinclair
+he literally got his soul fused with his wife, and he has like all eternity to do some crazy magic with her. that's some of the most monogamous lovey-dovey stuff that i've seen in deadlock, but there is zero chance they're gonna be vanilla if they're literally tethered to each other.
+
+## solomon
+incredibly straight. he's an old wise-man kind of character who will definitely play that role just to get verbally freaky with people in central park. that being said, i feel like he's the kind of guy to scoff at a gay couple holding hands in public. 
+
+## venator
+he has been celibate for most of his life given his religious duties, and dare i say he has even been faithful to a female venator at some point in his life but it wasn't really his thing. that being said, he had a one nightstand with a femboy that forever changed him, and so now that's why we see him preaching religious zealot shit on every single one of his voicelines because my man is literally praying the gay away.
+
+## vyper
+as someone online put it, she is a "ranked bisexual".
+
+## wraith
+straight but will probably dom you.
+
+## yamato
+> PAIGE: I have so many questions about you and your family. Would you be willing to sit down and talk sometime?
+>
+> YAMATO: Why would I talk to you?
+>
+> PAIGE: Maybe to make a friend?
+>
+> YAMATO: Why would I want you as a friend?
+>
+> PAIGE: I'm nice?..
+>
+> YAMATO: You are a puppy that pisses on the rug. Stupid, yet strangely endearing. We will have coffee.
+>
+> PAIGE: I'm just going to assume that's an idiom that doesn't translate well.
